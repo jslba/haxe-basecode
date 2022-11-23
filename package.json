@@ -3,11 +3,19 @@
 	"version": "0.0.1",
 	"description": "My Own Implementation of haxe.crypto.BaseCode",
 	"main": "source/index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jshlba/haxe-basecode.git"
+	},
 	"keywords": [
 		"haxe"
 	],
 	"author": "Angelisium",
 	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jshlba/haxe-basecode/issues"
+	},
+	"homepage": "https://github.com/jshlba/haxe-basecode",
 	"dependencies": {
 		"haxe-type": "^0.0.2"
 	}
