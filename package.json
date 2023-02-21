@@ -3,6 +3,9 @@
 	"version": "0.0.3",
 	"description": "An implementation of haxe.crypto.BaseCode",
 	"main": "source/index.js",
+	"scripts": {
+		"test": "jest --config=test/jest.config.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/jslba/haxe-basecode.git"
