@@ -1,6 +1,6 @@
 {
 	"name": "haxe-basecode",
-	"version": "0.0.1",
+	"version": "0.0.8",
 	"description": "An implementation of haxe.crypto.BaseCode",
 	"main": "source/index.js",
 	"scripts": {
@@ -20,7 +20,7 @@
 	},
 	"homepage": "https://github.com/jslba/haxe-basecode",
 	"peerDependencies": {
-		"haxe-type": "^0.0.1"
+		"haxe-type": "^0.0.8"
 	},
 	"devDependencies": {
 		"jest": "^29.4.3"
